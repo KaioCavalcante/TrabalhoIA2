@@ -1,4 +1,4 @@
-# 🧠 Trabalho 2 – Redes Neurais  
+# Trabalho 2 – Redes Neurais  
 ## Classificação de Lixo para Reciclagem (TrashNet)
 
 Este projeto implementa um classificador de imagens multiclasse utilizando Redes Neurais Convolucionais (CNN) para auxiliar no processo de triagem de resíduos recicláveis — um tema alinhado com os desafios atuais de sustentabilidade e foco da COP 30.  
@@ -13,21 +13,21 @@ O objetivo é classificar imagens de lixo em uma das seis categorias do dataset 
 
 ---
 
-# 📊 Resultados
+# Resultados
 
 ## ✔️ Curva de Acurácia  
 Mostra a evolução da acurácia de treino e teste ao longo das 20 épocas:
 
 ![accuracy](nb_images/cell_28_image.png)
 
-📌 **Observações:**  
+**Observações:**  
 - Acurácia de treino estabiliza próximo de **0.57**  
 - Acurácia de validação fica em torno de **0.51**  
 - Indícios de leve overfitting, porém esperado em datasets pequenos
 
 ---
 
-## 🧱 Matriz de Confusão
+## Matriz de Confusão
 
 A matriz abaixo mostra como o modelo acertou ou confundiu as classes:
 
@@ -40,7 +40,7 @@ A matriz abaixo mostra como o modelo acertou ou confundiu as classes:
 
 ---
 
-# 📌 Métricas
+# Métricas
 
 - **Acurácia de treino:** ~57%  
 - **Acurácia de teste:** ~51%  
