@@ -15,7 +15,7 @@ O objetivo é classificar imagens de lixo em uma das seis categorias do dataset 
 
 # Resultados
 
-## ✔️ Curva de Acurácia  
+## Curva de Acurácia  
 Mostra a evolução da acurácia de treino e teste ao longo das 20 épocas:
 
 ![accuracy](nb_images/cell_28_image.png)
