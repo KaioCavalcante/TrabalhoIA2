@@ -1,4 +1,7 @@
-# Trabalho 2 – Redes Neurais  
+# Trabalho 2 – Redes Neurais
+
+**Autores:** Kaio Carvalho, Luis Ribeiro, Conceição Rocha, Isaque, Jorge de Oliveira
+
 ## Classificação de Lixo para Reciclagem (TrashNet)
 
 Este projeto implementa um classificador de imagens multiclasse utilizando Redes Neurais Convolucionais (CNN) para auxiliar no processo de triagem de resíduos recicláveis, um tema alinhado com os desafios atuais de sustentabilidade e foco da COP 30.  
