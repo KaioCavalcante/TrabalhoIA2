@@ -1,7 +1,7 @@
 # Trabalho 2 – Redes Neurais  
 ## Classificação de Lixo para Reciclagem (TrashNet)
 
-Este projeto implementa um classificador de imagens multiclasse utilizando Redes Neurais Convolucionais (CNN) para auxiliar no processo de triagem de resíduos recicláveis — um tema alinhado com os desafios atuais de sustentabilidade e foco da COP 30.  
+Este projeto implementa um classificador de imagens multiclasse utilizando Redes Neurais Convolucionais (CNN) para auxiliar no processo de triagem de resíduos recicláveis, um tema alinhado com os desafios atuais de sustentabilidade e foco da COP 30.  
 O objetivo é classificar imagens de lixo em uma das seis categorias do dataset **TrashNet**:
 
 - **glass** (vidro)  
@@ -53,7 +53,7 @@ A matriz abaixo mostra como o modelo acertou ou confundiu as classes:
 
 O uso de **data augmentation** ajudou o modelo a generalizar melhor os dados, evitando que ele aprendesse apenas exemplos específicos do treinamento. As transformações aplicadas aumentaram artificialmente a diversidade das imagens, reduzindo o risco de overfitting e tornando o modelo mais robusto.
 
-No entanto, mesmo com essa técnica, o desempenho final ainda não foi alto — a acurácia permaneceu em torno de **51%** no conjunto de validação. Isso mostra que, apesar de contribuir positivamente, o data augmentation **não foi suficiente** para garantir boas classificações entre todas as classes, especialmente considerando o forte desbalanceamento do dataset TrashNet e a similaridade visual entre algumas categorias.
+No entanto, mesmo com essa técnica, o desempenho final ainda não foi alto, a acurácia permaneceu em torno de **51%** no conjunto de validação. Isso mostra que, apesar de contribuir positivamente, o data augmentation **não foi suficiente** para garantir boas classificações entre todas as classes, especialmente considerando o forte desbalanceamento do dataset TrashNet e a similaridade visual entre algumas categorias.
 
 Assim, percebe-se que:
 
@@ -61,5 +61,5 @@ Assim, percebe-se que:
 - São necessários **mais dados**, especialmente para classes minoritárias.  
 - Outras melhorias, como **transfer learning**, **aumento real do dataset**, **ajuste de hiperparâmetros** ou **modelos mais profundos**, podem levar a resultados mais precisos.
 
-Em resumo: a técnica foi valiosa, mas não suficiente para atingir alta performance — sendo apenas um dos passos necessários para melhorar o classificador final.
+Em resumo: a técnica foi valiosa, mas não suficiente para atingir alta performance, sendo apenas um dos passos necessários para melhorar o classificador final.
 
