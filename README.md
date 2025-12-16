@@ -2,6 +2,8 @@
 
 **Autores:** Kaio Carvalho, Luis Ribeiro, Conceição Rocha, Isaque, Jorge de Oliveira
 
+[Trabalho2IA.ipynb - Abrir no Colab](https://colab.research.google.com/github/KaioCavalcante/TrabalhoIA2/blob/main/Trabalho2IA.ipynb)
+
 ## Classificação de Lixo para Reciclagem (TrashNet)
 
 Este projeto implementa um classificador de imagens multiclasse utilizando Redes Neurais Convolucionais (CNN) para auxiliar no processo de triagem de resíduos recicláveis, um tema alinhado com os desafios atuais de sustentabilidade e foco da COP 30.  
