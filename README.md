@@ -1,6 +1,6 @@
 # Trabalho 2 – Redes Neurais
 
-**Autores:** Kaio Cavalcante de Carvalho 33251230, Luis Henrique de Carvalho Ribeiro 22352930, Conceição Barbosa Rocha 22052987, Isaque, Jorge de Oliveira
+**Autores:** Kaio Cavalcante de Carvalho 22351230, Luis Henrique de Carvalho Ribeiro 22352930, Conceição Barbosa Rocha 22052987, Isaque, Jorge de Oliveira
 
 [Trabalho2IA.ipynb - Abrir no Colab](https://colab.research.google.com/github/KaioCavalcante/TrabalhoIA2/blob/main/Trabalho2IA.ipynb)
 
